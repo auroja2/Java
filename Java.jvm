@@ -1,7 +1,6 @@
-Class demo
-{
-Public static void main(string args[])
-{
-System.out.println("Hi Git hub users":);
+public class Main{
+public static void main(String[]args){
+System.out,println("hey everyone i'm starting my new journey on git");
 }
 }
+
