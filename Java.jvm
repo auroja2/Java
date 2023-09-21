@@ -1,6 +1,6 @@
 public class Main{
 public static void main(String[]args){
-System.out,println("hey everyone i'm starting my new journey on git");
+System.out.println("hey everyone i'm starting my new journey on git");
 }
 }
 
